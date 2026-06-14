@@ -17,7 +17,7 @@ Power BI dashboard analyzing telecom customer churn using the IBM Telco dataset.
 - Competitor-related reasons are the #1 cause of churn
 
 ## Tools Used
-Power BI Online, Excel, DAX
+Power BI Online, Excel, DAX, Microsoft Azure Maps
 
 ## Dashboard Screenshots
 
