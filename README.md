@@ -18,3 +18,11 @@ Power BI dashboard analyzing telecom customer churn using the IBM Telco dataset.
 
 ## Tools Used
 Power BI Online, Excel, DAX
+
+## Dashboard Screenshots
+
+### Churn Overview
+![Churn Overview](01-Churn-Overview.png)
+
+### Tenure and Trends
+![Tenure and Trends](02-Tenure-and-Trends.png)
